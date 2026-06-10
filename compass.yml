@@ -1,0 +1,16 @@
+name: .github
+id: ari:cloud:compass:ba9bf9da-f946-41fd-b8ce-38a2343ad953:component/23d2e4cb-008f-4b5b-b064-ef540e4d7636/a56d603a-8526-4cf9-b5ad-eb89a61c1074
+description: Organization profile and public GitHub metadata for Krosoft.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/CollectCall/.github
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
